@@ -4,13 +4,13 @@ Applied research at the intersection of climate, AI, and decentralized infrastru
 
 **Active projects:**
 
-**[Portico](https://github.com/Ecofrontiers/portico)** — Self-hosted AI inference gateway. Privacy routing, carbon-aware backend selection, local-first. OpenAI-compatible API. AGPL-3.0.
+**[AqueductX](https://aqueductx.trade)**—Peer-to-peer logistics and finance layer for smallholder commodity producers. Agents aggregate, verify and price lots; intents match and settle them. 260,000 certified records read from public registries, 7,331 purchasable lots.
 
-**[Windfall](https://windfall.ecofrontiers.xyz)** — Spatially-routed LLM inference for AI agents on Base L2. Live in production.
+**[Windfall](https://windfall.ecofrontiers.xyz)**—Spatially-routed LLM inference for AI agents on Base L2. Live in production.
 
-**[Regen Atlas](https://regenatlas.xyz)** — Open source green asset registry. MIT license, 125+ verified assets.
+**[Regen Atlas](https://regenatlas.xyz)**—Open source green asset registry. MIT license, 500+ verified assets.
 
-**[AI Design Atlas](https://aidesignatlas.xyz)** — Institutional design primitives for AI-augmented collective decision-making.
+**[AI Design Atlas](https://aidesignatlas.xyz)**—Institutional design primitives for AI-augmented collective decision-making.
 
 ---
 
